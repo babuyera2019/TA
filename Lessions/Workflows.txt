@@ -1,0 +1,6 @@
+Write Code
+Commit code
+Test
+Build
+Push
+Deploy
